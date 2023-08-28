@@ -17,6 +17,7 @@ public class Player1 : MonoBehaviour
     private bool isAccelerating = false;
     private bool isGrounded = true;
     int i=0;
+    //aaaaa
 
     void Update()
     {
